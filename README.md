@@ -1,12 +1,11 @@
 <div align="center">
 
-<!-- Custom Avatar -->
-<img src="https://raw.githubusercontent.com/Dibya1207/Dibya1207/main/avatar.png" width="160" style="border-radius:50%;" alt="Dibya Das"/>
+
 
 <!-- Animated Typing Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey+%F0%9F%91%8B+I'm+Dibya+Das;Software+Developer+%7C+Problem+Solver" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=800&color=8B949E&center=true&vCenter=true&width=550&lines=Turning+complex+problems+into+elegant+solutions;500%2B+DSA+problems+solved+and+counting;C%2B%2B+%E2%80%A2+Python+%E2%80%A2+SQL" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=800&color=8B949E&center=true&vCenter=true&width=550&lines=Turning+complex+problems+into+elegant+solutions;200%2B+DSA+problems+solved+and+counting;C%2B%2B+%E2%80%A2+Python+%E2%80%A2+SQL" alt="Typing SVG" /> -->
 
 </div>
 
