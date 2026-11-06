@@ -3,7 +3,8 @@
 <!-- HEADER WAVE BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Dibya%20Das&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20DSA%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" alt="Header" />
 
-
+<!-- Animated Typing Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+complex+problems+into+elegant+solutions+%F0%9F%92%A1;200%2B+DSA+problems+solved+and+counting+%F0%9F%94%A5;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -53,12 +54,8 @@ Fun Fact   : I think in recursion and dream in binary trees 🌳
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
@@ -69,7 +66,6 @@ Fun Fact   : I think in recursion and dream in binary trees 🌳
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
@@ -80,10 +76,6 @@ Fun Fact   : I think in recursion and dream in binary trees 🌳
 
 <div align="center">
 
-<a href="https://github.com/Dibya1207/healthmonitor">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Dibya1207&repo=healthmonitor&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Health Monitor"/>
-</a>
-&nbsp;
 <a href="https://github.com/Dibya1207/codearena">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Dibya1207&repo=codearena&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="CodeArena"/>
 </a>
