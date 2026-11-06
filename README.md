@@ -81,14 +81,14 @@ Fun Fact   : I think in recursion and dream in binary trees 🌳
 <div align="center">
 
 <a href="https://github.com/Dibya1207/healthmonitor">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Dibya1207&repo=healthmonitor&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Health Monitor"/>
+  <img width="650" height="350" alt="web dashboard image " src="https://github.com/user-attachments/assets/e24e69a6-d1be-4f86-bc65-08c9759a1d44" />
 </a>
 &nbsp;
 
 
 </div>
 
-> 💡 **Tip:** Pin your best repositories on your GitHub profile page! Go to your profile → click **"Customize your pins"** → select up to 6 repos to showcase.
+
 
 ---
 
@@ -96,19 +96,18 @@ Fun Fact   : I think in recursion and dream in binary trees 🌳
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dibya1207&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Trophies"/>
+  <img src="https://trophy.ryglcloud.net/?username=Dibya1207&theme=tokyonight&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
-
 <!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dibya1207&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" alt="Dibya's GitHub Stats" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=Dibya1207&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" alt="Dibya's GitHub Stats" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dibya1207&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dibya1207&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
 
 </div>
 
@@ -121,10 +120,12 @@ Fun Fact   : I think in recursion and dream in binary trees 🌳
 
 <br/>
 
+
 <!-- CONTRIBUTION / ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dibya1207&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Contribution Graph" />
-</div>
+
+
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
 
 ---
 
