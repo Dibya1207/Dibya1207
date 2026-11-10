@@ -78,13 +78,20 @@ Fun Fact   : I think in recursion and dream in binary trees 🌳
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
+<!-- FEATURED PROJECTS -->
+## 🚀 Featured Projects
+
 <div align="center">
 
 <a href="https://github.com/Dibya1207/healthmonitor">
-  <img width="650" height="350" alt="web dashboard image " src="https://github.com/user-attachments/assets/e24e69a6-d1be-4f86-bc65-08c9759a1d44" />
+  <img width="650" height="350" alt="web dashboard image" src="https://github.com/user-attachments/assets/e24e69a6-d1be-4f86-bc65-08c9759a1d44" />
 </a>
-&nbsp;
 
+&nbsp;&nbsp;
+
+<a href="https://github.com/Dibya1207/healthmonitor">
+  <img width="400" alt="Device Circuit / Assembly" src="https://github.com/user-attachments/assets/cb0e3d62-a060-4931-ab57-c490aa2feec6" />
+</a>
 
 </div>
 
