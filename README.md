@@ -137,7 +137,7 @@ Fun Fact   : I think in recursion and dream in binary trees 🌳
 ---
 
 <!-- LEETCODE STATS -->
-## 🏅 LeetCode Stats (July 2026 →)
+## 🏅 LeetCode Stats
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Dibya1207?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats"/>
