@@ -75,8 +75,7 @@ Fun Fact   : I think in recursion and dream in binary trees 🌳
 
 ---
 
-<!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
+
 
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
